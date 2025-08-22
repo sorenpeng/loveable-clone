@@ -1,0 +1,3 @@
+I am developing a lovable clone, I want to use Claude code SDK. Using project memory that create a readme file in the project.
+
+https://docs.anthropic.com/en/docs/claude-code/sdk Lets focus on using the claude code SDK to power my code-gen feature for my lovable clone. For now, lets scope things down. I want a function that lets me input a prompt, and uses claude code to build it. PLAN MODE, DONT NOT WRITE CODE.
